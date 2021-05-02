@@ -1,1 +1,2 @@
-Hi ! I am demo project.
+JavaScript :
+JavaScript is scripting language and it is popular now in the world wide , javascrip become more demandable language due to back end support.
